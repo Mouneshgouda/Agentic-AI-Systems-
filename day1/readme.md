@@ -1,5 +1,7 @@
 
 # What Is Agentic AI?
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2fb9cf7e-97f7-4cfe-8394-93c8d6122ab6" />
+
 
 Agentic AI refers to artificial intelligence systems that can **reason, plan, and take action independently**, much like an agent working toward a mission or objective.
 
