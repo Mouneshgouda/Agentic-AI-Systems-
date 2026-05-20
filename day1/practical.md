@@ -59,3 +59,14 @@ from deepface import DeepFace
 obj = DeepFace.analyze("face.jpg")
 ```
 
+# textblob
+```
+from textblob import TextBlob
+t1 = "This movie was absolutly fantastic!"
+t2 = "The service was terrible, & the food was mediocre"
+t3 = "The weather is quite pleasant today"
+b = TextBlob(t1)
+p = b.sentiment.polarity
+a="Poisitive" if p>0 else "Negative" if p<0 else "Neutral"
+print(a,p)
+```
