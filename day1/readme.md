@@ -33,6 +33,9 @@ Traditional AI is designed to respond to specific inputs.
 ---
 
 ## 2. Generative AI
+
+<img width="464" height="464" alt="image" src="https://github.com/user-attachments/assets/bdaf632e-79eb-418b-9a6a-92998ed93f0d" />
+
 Generative AI creates new content based on prompts.
 
 ### Example:
