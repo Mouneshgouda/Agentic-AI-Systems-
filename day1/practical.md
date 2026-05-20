@@ -51,13 +51,13 @@ text = pytesseract.image_to_string(img)
 print(text)
 ```
 # Deepfake
-```
+```python
 from deepface import DeepFace
 obj = DeepFace.analyze("face.jpg")
 ```
 
 # textblob
-```
+```python
 from textblob import TextBlob
 t1 = "This movie was absolutly fantastic!"
 t2 = "The service was terrible, & the food was mediocre"
