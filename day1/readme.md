@@ -1,6 +1,6 @@
 # The Evolution of Artificial Intelligence
 
-Artificial Intelligence (AI) is no longer just a buzzword or a futuristic concept — it is shaping the way we live, work, and interact every day. From voice assistants on our smartphones to intelligent automation in enterprises, AI has evolved dramatically over the last few decades. But how did we get here? Let’s take a journey through the evolution of AI and understand its past, present, and future.
+- Artificial Intelligence (AI) is no longer just a buzzword or a futuristic concept — it is shaping the way we live, work, and interact every day. From voice assistants on our smartphones    to intelligent automation in enterprises, AI has evolved dramatically over the last few decades. But how did we get here? Let’s take a journey through the evolution of AI and understand    its past, present, and future.
 
 <img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/1e27b95a-b60a-4c8b-bde6-f38b2a87041c" />
 
