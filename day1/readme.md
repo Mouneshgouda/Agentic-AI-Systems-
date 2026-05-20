@@ -14,6 +14,9 @@ These systems are **goal-driven**. Instead of only responding to commands, they 
 
 # Understanding the Evolution of AI
 
+<img width="5000" height="1800" alt="image" src="https://github.com/user-attachments/assets/50ecfe42-48e0-42be-a744-d8fca5a051e1" />
+
+
 ## 1. Traditional AI
 Traditional AI is designed to respond to specific inputs.
 
