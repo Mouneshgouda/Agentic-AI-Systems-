@@ -53,6 +53,9 @@ img = Image.open('/content/Gemini_Generated_Image_2f6ckc2f6ckc2f6c.png')
 text = pytesseract.image_to_string(img)
 print(text)
 ```
-
+# Deepfake
+```
+from deepface import DeepFace
+obj = DeepFace.analyze("face.jpg")
 ```
 
