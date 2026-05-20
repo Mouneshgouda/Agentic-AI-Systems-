@@ -1,19 +1,3 @@
-
-# What Is Agentic AI?
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2fb9cf7e-97f7-4cfe-8394-93c8d6122ab6" />
-
-
-Agentic AI refers to artificial intelligence systems that can **reason, plan, and take action independently**, much like an agent working toward a mission or objective.
-
-These systems are **goal-driven**. Instead of only responding to commands, they can:
-
-- Break large tasks into smaller steps
-- Decide the best sequence of actions
-- Adapt when situations change
-- Learn from outcomes and improve over time
-
----
-
 # Understanding the Evolution of AI
 
 <img width="5000" height="1800" alt="image" src="https://github.com/user-attachments/assets/50ecfe42-48e0-42be-a744-d8fca5a051e1" />
@@ -73,6 +57,21 @@ It can:
 
 ### Key Characteristic:
 - Autonomous decision-making and adaptability
+
+---
+
+# What Is Agentic AI?
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2fb9cf7e-97f7-4cfe-8394-93c8d6122ab6" />
+
+
+Agentic AI refers to artificial intelligence systems that can **reason, plan, and take action independently**, much like an agent working toward a mission or objective.
+
+These systems are **goal-driven**. Instead of only responding to commands, they can:
+
+- Break large tasks into smaller steps
+- Decide the best sequence of actions
+- Adapt when situations change
+- Learn from outcomes and improve over time
 
 ---
 
