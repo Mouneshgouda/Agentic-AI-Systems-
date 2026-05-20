@@ -14,7 +14,7 @@
 
 <img width="968" height="890" alt="image" src="https://github.com/user-attachments/assets/cef23adf-0cb6-4183-99d1-e40d6bc3f33b" />
 
-## Agentic Ai
+# Agentic Ai
 
 
 <img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/ec5b5cd5-e592-44d1-8e95-9d65b444a50d" />
