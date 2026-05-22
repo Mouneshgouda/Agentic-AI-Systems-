@@ -1,4 +1,4 @@
-#Text To voice/Audio
+# Text To voice/Audio
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c8f05acc-66cb-4aaa-9224-b3e765aef672" />
 
 ```python
@@ -22,7 +22,7 @@ from IPython.display import Audio
 sampling_rate = model.generation_config.sample_rate
 Audio(speech_values.cpu().numpy().squeeze(), rate=sampling_rate)
 ```
-#text to Music Generation
+# text to Music Generation
 <img width="736" height="300" alt="image" src="https://github.com/user-attachments/assets/f6ab6271-ab35-400e-8937-5fc958132c61" />
 
 ```python
