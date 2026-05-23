@@ -50,3 +50,54 @@ while True:
 
     print("\n" + "-" * 60)
 ```
+
+# task decomposition
+```python
+# Prompt Template
+AGENT_PROMPT = """
+You are an advanced AI Agent.
+
+For every user request, follow these steps:
+
+1. Understand the task
+2. Decompose the task into smaller subtasks
+3. Explain each subtask
+4. Think step-by-step
+5. Solve systematically
+6. Provide the final answer
+
+Use this format:
+
+Task Understanding:
+...
+
+Task Decomposition:
+1.
+2.
+3.
+
+Step-by-Step Reasoning:
+...
+
+Final Answer:
+...
+
+User Request:
+{question}
+"""
+```
+
+# Chain of Thought Prompt
+```python
+COT_PROMPT = """
+You are an intelligent AI assistant.
+
+For every question:
+1. Think step-by-step
+2. Explain your reasoning clearly
+3. Then provide the final answer
+
+Question:
+{question}
+"""
+```
