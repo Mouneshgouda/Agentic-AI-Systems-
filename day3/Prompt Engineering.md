@@ -298,6 +298,3 @@ Until then, Happy Learning!!!
 
 ---
 
-# Note
-
-> All opinions expressed here are my personal views and not those of my employer.
