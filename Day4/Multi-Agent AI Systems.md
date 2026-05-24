@@ -217,4 +217,5 @@ This can hinder:
 - Real-world deployment
 
 ---
+<img width="903" height="564" alt="image" src="https://github.com/user-attachments/assets/a701b93a-cf46-466d-9e0f-ad4c73e494d8" />
 
