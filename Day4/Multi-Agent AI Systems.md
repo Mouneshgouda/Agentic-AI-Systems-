@@ -11,26 +11,26 @@ CrewAI is a cutting-edge Python framework that facilitates the orchestration of 
 
 # Key Features of CrewAI
 
-## Role-Based Agent Design
-Customize agents with specific roles, goals, and tools.
+- Role-Based Agent Design:
+ Customize agents with specific roles, goals, and tools.
 
-## Autonomous Inter-Agent Delegation
-Agents can autonomously delegate tasks and inquire amongst themselves, enhancing problem-solving efficiency.
+- Autonomous Inter-Agent Delegation:
+  Agents can autonomously delegate tasks and inquire amongst themselves, enhancing problem-solving efficiency.
 
-## Flexible Task Management
-Define tasks with customizable tools and assign them to agents dynamically.
+- Flexible Task Management
+  Define tasks with customizable tools and assign them to agents dynamically.
 
-## Processes Driven
-Currently only supports sequential task execution and hierarchical processes, but more complex processes like consensual and autonomous are being worked on.
+- Processes Driven
+  Currently only supports sequential task execution and hierarchical processes, but more complex processes like consensual and autonomous are being worked on.
 
-## Save Output as File
-Save the output of individual tasks as a file, so you can use it later.
+- Save Output as File
+  Save the output of individual tasks as a file, so you can use it later.
 
-## Parse Output as Pydantic or JSON
-Parse the output of individual tasks as a Pydantic model or as JSON if you want to.
+- Parse Output as Pydantic or JSON
+  Parse the output of individual tasks as a Pydantic model or as JSON if you want to.
 
-## Works with Open Source Models
-Run your crew using OpenAI or open-source models. Refer to the Connect CrewAI to LLMs page for details on configuring your agents’ connections to models, even ones running locally.
+- Works with Open Source Models
+  Run your crew using OpenAI or open-source models. Refer to the Connect CrewAI to LLMs page for details on configuring your agents’ connections to models, even ones running locally.
 
 ---
 
