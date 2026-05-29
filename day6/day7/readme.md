@@ -1,6 +1,12 @@
 ## python app.py
 
 ```python
+pip install sentence_transformers
+pip install faiss-cpu
+pip install flask
+
+
+```python
 from flask import Flask, render_template, request
 from sentence_transformers import SentenceTransformer
 import faiss
