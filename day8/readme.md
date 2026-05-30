@@ -1,3 +1,8 @@
+```python
+pip install flask pandas google-generativeai python-dotenv
+```
+
+
 
 # index.html
 
