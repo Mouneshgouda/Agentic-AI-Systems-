@@ -76,8 +76,10 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # -----------------------------
 # MongoDB
 # -----------------------------
-mongo_client = MongoClient(
-    os.getenv("MONGODB_URI")
+import certifi
+mongo_client=MongoClient(
+    os.getenv("MONGODB_URI"),
+    tlsCAFile=certifi.where()
 )
 
 mongo_client.admin.command("ping")
