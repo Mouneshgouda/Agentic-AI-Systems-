@@ -57,6 +57,7 @@ from datetime import datetime, UTC
 from dotenv import load_dotenv
 load_dotenv()
 
+
 # -----------------------------
 # LangSmith Debug
 # -----------------------------
@@ -158,6 +159,5 @@ while True:
     except Exception as e:
 
         print("\nError:", e)
-
 
 ```
