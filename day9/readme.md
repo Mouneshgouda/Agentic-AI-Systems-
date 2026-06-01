@@ -160,5 +160,15 @@ while True:
 
 ```
 
+```python
+
+GOOGLE_API_KEY=A
+
+
+MONGODB_URI=mongodb+srv://mou:pYVihMwPw8m4wIkF@cluster0.uxulqbb.mongodb.net/?appName=Cluster0
+
+LANGSMITH_API_KEY=
+LANGSMITH_TRACING=true
+LANGSMITH_PROJECT=Gemini-Agent
 
 
