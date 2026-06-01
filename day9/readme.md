@@ -160,6 +160,7 @@ while True:
 
 ```
 
+# dotenv
 ```python
 
 GOOGLE_API_KEY=A
@@ -171,4 +172,4 @@ LANGSMITH_API_KEY=
 LANGSMITH_TRACING=true
 LANGSMITH_PROJECT=Gemini-Agent
 
-
+```
